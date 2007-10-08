@@ -1,0 +1,12 @@
+MANIFEST
+README
+LICENSE
+Todo
+Changes
+Makefile.PL
+lib/DateTime/Parser.pm
+t/001_load.t
+t/002_locale.t
+t/003_pattern.t
+t/004_pod.t
+t/005_podccoverage.t

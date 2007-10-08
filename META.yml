@@ -1,0 +1,21 @@
+ --- #YAML:1.0
+ name: DateTime::Parser
+ abstract: Locale aware Parser for DateTime
+ version: 1.00
+ author:
+   - Maroš Kollár <maros [at] k-1.com>
+ license: perl
+ distribution_type: module
+ requires:
+   DateTime: 0
+   DateTime::Locale: 0
+   DateTime::TimeZone: 0
+ build_requires:
+   Test::Simple: 0
+   Test::More: 0
+ urls:
+   license: http://dev.perl.org/licenses/
+ meta-spec:
+   version: 1.2
+   url: http://module-build.sourceforge.net/META-spec-v1.2.html
+ generated_by: Module::Build version 0.20
